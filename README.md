@@ -1,4 +1,4 @@
-![Senior Full Stack Developer]([https://github.com/BFVOICE/background.webp](https://github.com/BFVOICE/BFVOICE/blob/main/background.webp))  
+![Senior Full Stack Developer](https://github.com/BFVOICE/BFVOICE/blob/main/background.webp)
   
 
 ## I'm a Senior Full Stack Developer with over 10 years of hands-on experience!  
