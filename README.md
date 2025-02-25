@@ -82,12 +82,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=BFVOICE&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br /
+<br/>
