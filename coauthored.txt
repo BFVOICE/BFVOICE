@@ -11,3 +11,4 @@ line 3
 testing coauthor for badge
 testing coauthor for badge
 badge confirmed
+badge confirmed
